@@ -5,7 +5,7 @@ Created on Mon Jun 26 14:32:21 2017
 @author: jrbrad
 """
 
-x = raw_input('Please enter a number:')
+x = input('Please enter a number:')
 
 try:
     x = float(x)
